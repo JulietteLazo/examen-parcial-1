@@ -33,4 +33,5 @@ Por ultimo para subir los cambios a GitHub, utilizaremos un git” push origin m
 
 Paso 6:
 Volvemos a editar dos de nuestros 4 archivos y subiremos las instrucciones realizadas hasta este momento.
-Guardaremos y recupere los cambios a su carpeta local.
+Guardaremos y recupere los cambios a su carpeta local..
+Esperemos que pasará 
