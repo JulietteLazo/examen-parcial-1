@@ -35,3 +35,13 @@ Paso 6:
 Volvemos a editar dos de nuestros 4 archivos y subiremos las instrucciones realizadas hasta este momento.
 Guardaremos y recupere los cambios a su carpeta local..
 Esperemos que pasará 
+
+Paso 7:
+Crearemos una nueva rama llamada rama-1 con el comando git branch rama-1.
+Ahora crearemos 2 archivos nuevos.
+Una vez realizado lo siguiente, en la rama 1 agregaremos los 2 nuevos archivos creados, con los comandos git add archivoPrama.py y git add archivoPrama2.py.
+Confirmamos su status, se estan en preparación, así que hacemos un commit para subirlos correctamente, por ultimo hacemos un git push origin rama-1 para subir los cambios realizados a GitHub.
+
+Ahora tenemos que volver a la rama “Main” que es nuestra principal, nos aparecerá en linea roja tachada nuestros 2 archivos creados en la rama-1.
+Sin embargo, para fusionar nuestras ramas hechas, utilizaremos git merge rama-1.
+Una vez hecho esto, se habrán fusionado correctamente todo.
