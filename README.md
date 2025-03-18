@@ -22,3 +22,15 @@ Vamos a crear el archivo README de manera manual.
 
 Paso 4:
 Vamos a recuperar los cambios realizados en Git Hub a su carpeta local. Para eso utilizamos el comando git pull origin main.
+
+Paso 5:
+Edite dos de los cuatro archivos de su carpeta.
+Utilizaremos un “git add .” para agregar todo lo modificado hasta el momento que son 2 archivos de 4 y el README.
+Realizamos un “git commit -m” para hacer el comentario de lo realizado "Se han editado 2 de los 4 archivos de .py así como se ha añadido todas las instrucciones hasta el momento en nuestro README”.
+Si nos vamos a “Status” nos indicará que se han modificado esos 3 archivos.
+Para añadirlos utilizaremos un “git add . “Ya que indica que se añade los 3 archivos, de nuevo hacemos un commit para confimar “las modificaciones han sido añadidas”
+Por ultimo para subir los cambios a GitHub, utilizaremos un git” push origin main” para que esto se vea reflejado en nuestro repositorio remoto.
+
+Paso 6:
+Volvemos a editar dos de nuestros 4 archivos y subiremos las instrucciones realizadas hasta este momento.
+Guardaremos y recupere los cambios a su carpeta local.
